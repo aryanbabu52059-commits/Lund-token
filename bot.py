@@ -1,4 +1,4 @@
-import telebot
+LokiPanelOfficial telebot
 from telebot import types
 import pyrebase
 import json
@@ -17,9 +17,9 @@ logger = logging.getLogger(__name__)
 BOT_TOKEN = "8374888073:AAHJmFtorPMJaxW3bBaHN5FM7pcUYYv2N9M"
 ADMIN_ID = 7949539794
 ADMIN_IDS = [7949539794, 8886845678]
-CHANNEL_LINK = "https://t.me/LokiPanelOfficial"
-CHANNEL_ID = -1002256465587
-FIREBASE_DATA_CHANNEL = -1004314858694
+CHANNEL_LINK = "https://t.me/CIPHER889988"
+CHANNEL_ID = -1003223668976
+FIREBASE_DATA_CHANNEL = -1004379319158
 
 DATA_FILE = "bot_data.pkl"
 VERSION_FILE = "bot_version.txt"
